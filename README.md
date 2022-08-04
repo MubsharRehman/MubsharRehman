@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning full stack 
 - 💞️ I’m looking to do projects for my hands on experience 
-- 📫 You can contact me at mubsharrehman@outlook.com or call me at +92 323 5986 640.
+- 📫 You can reach me at mubsharrehman@outlook.com or call me on +92 323 5986 640.
 
 <!---
 MubsharRehman/MubsharRehman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
